@@ -1,0 +1,23 @@
+Script started on Tue 18 Sep 2018 05:04:07 PM PDT
+]0;aibarra@lh-cslab-013:~/COMP280/ibarra_hwk1[?1034h[aibarra@lh-cslab-013 ibarra_hwk1]$ ./wdct text [K2.txt[1Pt2.txtst2.txt[C[C[C[C[C[C
+test2.txt:Lines: 5 Words: 19 Chars: 92 
+Total Lines: 5 
+Total Words: 19 
+Total Chars: 92 
+]0;aibarra@lh-cslab-013:~/COMP280/ibarra_hwk1[aibarra@lh-cslab-013 ibarra_hwk1]$ ./e[Kwdct test.txt test.tx[K[K[K2.txt
+test.txt:Lines: 3 Words: 10 Chars: 48 
+test2.txt:Lines: 5 Words: 19 Chars: 92 
+Total Lines: 8 
+Total Words: 29 
+Total Chars: 140 
+]0;aibarra@lh-cslab-013:~/COMP280/ibarra_hwk1[aibarra@lh-cslab-013 ibarra_hwk1]$ ./wdct test.txt test.txt test2.txt
+test.txt:Lines: 3 Words: 10 Chars: 48 
+test.txt:Lines: 3 Words: 10 Chars: 48 
+test2.txt:Lines: 5 Words: 19 Chars: 92 
+Total Lines: 11 
+Total Words: 39 
+Total Chars: 188 
+]0;aibarra@lh-cslab-013:~/COMP280/ibarra_hwk1[aibarra@lh-cslab-013 ibarra_hwk1]$ exit
+exit
+
+Script done on Tue 18 Sep 2018 05:04:56 PM PDT
